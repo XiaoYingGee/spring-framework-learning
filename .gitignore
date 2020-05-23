@@ -1,0 +1,39 @@
+/target/
+/disconf/
+/disconf/*
+/.idea/
+/.idea/*
+!.mvn/wrapper/maven-wrapper.jar
+/src/main/webapp/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+.mvn
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+target
+/target
+*/target/*
+*/target/
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+/src/main/vue-dev/node_modules/
+/src/main/webapp/
+/svs-data-center-service/target/classes/com/wisedu/svs/service/
